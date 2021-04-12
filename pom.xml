@@ -10,8 +10,7 @@
   <packaging>war</packaging>
 
   <name>springmvc Maven Webapp</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>https://github.com/sahilofficial671/spring-mvc</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -34,7 +33,7 @@
   </dependencies>
 
   <build>
-    <finalName>springmvc</finalName>
+    <finalName>Spring MVC</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
